@@ -238,9 +238,9 @@ Example request:
 
 ```json
 {
-  "name": "Rahul Sharma",
-  "email": "rahul@example.com",
-  "age": 22
+  "name": "Agrim Agrawal",
+  "email": "infinityagrim@gmail.com",
+  "age": 25
 }
 ```
 
